@@ -1,6 +1,6 @@
 ### Curled
 
-- 🤗Be brave and do what I love.
+- 🤗toooooooooooooooooooooo vegetable.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitaphial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
