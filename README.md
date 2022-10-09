@@ -1,3 +1,9 @@
 ### Curled
 
--TOOOOOOOOOOOOOOOOOOO vegetable.XD
+- Golang/C++
+
+- Reversing
+
+- Hypervisor/Virtualization
+
+- TOOOOOOOOOOOOOOOOOOO vegetable XD
