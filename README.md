@@ -1,9 +1,12 @@
-### Cur1ed
+# Hi, I'm Cur1ed
 
-- Golang/C++
+I am a PhD Student in the UCAS.
 
-- Reversing
+### ✨ &nbsp;&nbsp;My passions
 
-- Hypervisor/Virtualization
-
-- TOOOOOOOOOOOOOOOOOOO vegetable XD
+- ♥️Reverse Engineering
+- 🧡Static Program Analysis
+- 💛Rust/Go/C++
+- 💚CTFer in NeSE
+- 💜Music Criticism/Cool Jazz and 70s progressive rock music lover.
+- 🤍Thomas Stearns Eliot/Dostoevsky
