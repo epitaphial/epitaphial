@@ -1,7 +1,5 @@
 # Hi, I'm Cur1ed
 
-I am a PhD Student at the UCAS.
-
 ### ✨ &nbsp;&nbsp;My passions
 
 - ♥️ Reverse Engineering
